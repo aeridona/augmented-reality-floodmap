@@ -1,0 +1,22 @@
+{
+  "name": "augmented-floodmap",
+  "version": "1.0.0",
+  "private": true,
+  "description": "augmented-floodmap",
+  "author": "Tess Bergman",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.9.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
