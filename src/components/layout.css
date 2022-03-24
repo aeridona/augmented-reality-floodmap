@@ -1,5 +1,9 @@
 html {
-    font-family: 'Raleway', sans-serif;
+    @font-face {
+      font-family: Catamaran;
+      src: url("/src/data/Catamaran/Catamaran-Regular.ttf");
+    }
+    font-family: sans-serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
   }
